@@ -1,0 +1,8 @@
+#!wing
+#!version=6.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('../Platform_Suvivor/text_factory.py')]
+proj.file-type = 'shared'
